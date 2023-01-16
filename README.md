@@ -21,7 +21,7 @@
 
 ### :shipit: Some of my stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loginalee)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=loginalee)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 <!--
