@@ -1,4 +1,4 @@
-### :burrito: Hi! I'm Ale, i like burritos :burrito:
+### :burrito: Hi I'm Ale, Feel free to reach out! :burrito:
 
 
 ![Alt Text](https://media0.giphy.com/media/FOL5mK0tXUmXe/giphy.gif?cid=ecf05e47sj18iwfoaxxnzqv3pcoyfovtwta7ryiahu7f8xxh&rid=giphy.gif&ct=g)
